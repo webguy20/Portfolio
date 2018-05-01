@@ -1933,7 +1933,10 @@ body {
   color: #030303;
 }
 .cid-qQDRruq1q3 .mbr-section-subtitle {
-  text-align: right;
+  text-align: center;
+}
+.cid-qQDRruq1q3 .mbr-section-subtitle B {
+  color: #970e0e;
 }
 .cid-qQJcStU8fI {
   padding-top: 90px;
