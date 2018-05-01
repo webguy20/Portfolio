@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Landing page",
+    "name": "Système de Communication Bluetooth",
     "currentPage": "index.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 78,
@@ -39,7 +39,7 @@
         "#c63535"
       ]
     },
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/kit-mains-libre-sans-fil-bluetooth-pour-motoneiges.png",
     "noImageResize": "true",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
